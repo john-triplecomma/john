@@ -1,3 +1,5 @@
+<img src="icon.png" width="100">
+
 # 한종현
 CTO @ Triple Comma Corp.
 
